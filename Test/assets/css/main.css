@@ -1,0 +1,9 @@
+.down-arrow{
+    display: inline-block !important;
+    vertical-align: middle !important;
+    padding: 0px 0px 0px 10px !important;
+    font-weight: light !important;
+}
+.text-item{
+    color: #ff7d44 !important;
+}

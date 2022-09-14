@@ -1,0 +1,12 @@
+.elementor-container>.elementor-row>.elementor-column>.elementor-element-populated,
+.elementor-container>.elementor-column>.elementor-element-populated {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.elementor-column-gap-default>.elementor-row>.elementor-column>.elementor-element-populated,
+.elementor-column-gap-default>.elementor-column>.theiaStickySidebar>.elementor-element-populated,
+.elementor-column-gap-default>.elementor-column>.elementor-element-populated {
+    padding-left: 15px;
+    padding-right: 15px;
+}
